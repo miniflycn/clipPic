@@ -10,6 +10,7 @@ clipPic
 ![截图窗口](https://cloud.githubusercontent.com/assets/2239584/6593046/833b34f4-c80f-11e4-807a-5ee9834fa49a.png)
 
 截图后展示：
+
 ![截图后展示](https://cloud.githubusercontent.com/assets/2239584/6593049/8b35793a-c80f-11e4-9765-e20514552a51.png)
 
 
